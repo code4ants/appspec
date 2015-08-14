@@ -13,7 +13,9 @@ Chapters of appspec
     - Process
     - Tool
 
-
+- Application configuration
+    - for monoliths
+    - for microservice based architectures
 
 - Design the data model
     - https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
