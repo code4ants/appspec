@@ -1,0 +1,29 @@
+Sample of ascii doc: http://asciidoc.org/asciidoc.txt
+
+Chapters of appspec
+=============
+
+- Project start
+- Development tools
+    - IDE
+    - other tools to be named
+- Build system
+- Issue tracker
+- Code review
+    - Process
+    - Tool
+
+
+
+- Design the data model
+    - https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
+
+
+
+
+
+Other:
+- project handover
+- project post-mortem
+- 
+
